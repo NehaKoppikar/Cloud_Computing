@@ -1,0 +1,12 @@
+Role: Add another AWS account 
+A
+
+Roles Created:
+Sir_Approval (Manual Approval Access)
+serviceRoleS3 (S3)
+cdserviceRole (Code Deploy)
+
+
+S3 Bucket ARN: arn:aws:s3:::nehaccbucketprac
+
+42 MINS and 43 SEC
